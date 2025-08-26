@@ -1,0 +1,6 @@
+# Entpacktes ignorieren
+data/raw/
+# ZIPs NICHT ignorieren:
+!data/zips/
+# Sicherheit: niemals versehentlich riesige Files committen
+*.tmp
