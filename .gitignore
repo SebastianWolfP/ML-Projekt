@@ -1,5 +1,8 @@
 # Entpacktes ignorieren
 data/raw/
+household_test.csv
+household_train.csv
+household_validation.csv
 # ZIPs NICHT ignorieren:
 !data/zips/
 # Sicherheit: niemals versehentlich riesige Files committen
